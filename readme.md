@@ -3,6 +3,7 @@
 ## :memo: Descrição
 Projeto Slider de cartas Pokemon
 
+![Pokemon](https://user-images.githubusercontent.com/72527282/199102798-96184e3b-ea2d-497e-a9b2-befe698a35c6.gif)
 
 
 ## :books: Funcionalidades
@@ -31,4 +32,4 @@ Projeto Slider de cartas Pokemon
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: 
+ * URL: https://victorpoliveira2002.github.io/Slide-Page-Pokemon-/
